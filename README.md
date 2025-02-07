@@ -1,10 +1,10 @@
-<h1 align="center">Hi! I'm Oliver Pineda Suárez 🔭</h1>
+<h1 align="center">Hi! I'm Oliver Pineda Suárez 🛰️🔭</h1>
 
 <p align="center">
   <img width="512" alt="image" src="https://github.com/user-attachments/assets/c25086d4-dac1-4783-b3e6-0ba1714733ba" />
 </p>
   
-## About me
+## 🚀 About me
 
 Aerospace Engineer and Software Developer with a passion in space exploration. My interests are focused on the fields of Robotics, Propulsion, Digitalization and Space Systems Engineering, specifically in the development of rockets and satellites.
 
@@ -96,6 +96,16 @@ Aerospace Engineer and Software Developer with a passion in space exploration. M
 
 </p>
 
+## 📱 Contact
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <a href="https://www.linkedin.com/in/oliver-pineda-suarez/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:oliver.pineda@outlook.com" target="_blank">
+    <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook">
+  </a>
+</div>
 
 
 
