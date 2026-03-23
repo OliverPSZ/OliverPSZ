@@ -6,7 +6,7 @@
   
 ## 🚀 About me
 
-Aerospace Engineer and Software Developer with a passion in space exploration. My interests are focused on the fields of Robotics, Propulsion, Digitalization and Space Systems Engineering, specifically in the development of rockets and satellites.
+Aerospace engineer and software developer with a passion in astronomy and space exploration. My interests are focused on the fields of robotics, propulsion, digitalization and space systems engineering, specifically in the development of satellites.
 
 <div style="display: flex; justify-content: center; gap: 20px;" align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OliverPSZ&layout=donut&theme=holi&hide_border=true" />
