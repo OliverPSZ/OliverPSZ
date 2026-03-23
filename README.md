@@ -9,8 +9,8 @@
 Aerospace engineer and software developer with a passion in astronomy and space exploration. My interests are focused on the fields of robotics, propulsion, digitalization and space systems engineering, specifically in the development of satellites.
 
 <p align="center">
-  <img height="300" src="https://gh-stats-rosy-xi.vercel.app/api/top-langs/?username=OliverPSZ&layout=donut&theme=holi&hide_border=true&langs_count=10&count_weight=1&size_weight=0.5" />
-  <img height="300" src="https://gh-stats-rosy-xi.vercel.app/api?username=OliverPSZ&show_icons=true&theme=holi&hide_border=true" />
+  <img src="https://gh-stats-rosy-xi.vercel.app/api/top-langs/?username=OliverPSZ&layout=donut&theme=holi&hide_border=true&langs_count=10&count_weight=1&size_weight=0.5&card_height=320" />
+  <img src="https://gh-stats-rosy-xi.vercel.app/api?username=OliverPSZ&show_icons=true&theme=holi&hide_border=true&card_height=320" />
 </p>
 
 ## 🛠 Skills
