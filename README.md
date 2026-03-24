@@ -8,10 +8,14 @@
 
 Aerospace engineer and software developer with a passion in astronomy and space exploration. My interests are focused on the fields of robotics, propulsion, digitalization and space systems engineering, specifically in the development of satellites.
 
-<p align="center">
-  <img src="https://gh-stats-rosy-xi.vercel.app/api/top-langs/?username=OliverPSZ&layout=compact&theme=holi&hide_border=true&langs_count=8&count_private=true&count_weight=1&size_weight=0.5" />
-  <img src="https://gh-stats-rosy-xi.vercel.app/api?username=OliverPSZ&show_icons=true&theme=holi&hide_border=true&include_all_commits=true&count_private=true" />
-</p>
+<div align="center">
+  <img height="260" src="https://gh-stats-rosy-xi.vercel.app/api/top-langs/?username=OliverPSZ&layout=compact&theme=holi&hide_border=true&langs_count=8&count_private=true&count_weight=1&size_weight=0.5" />
+  <img height="260" src="https://gh-stats-rosy-xi.vercel.app/api?username=OliverPSZ&show_icons=true&theme=holi&hide_border=true&include_all_commits=true&count_private=true" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OliverPSZ&theme=github_dark" />
+</div>
 
 ## 🛠 Skills
 
@@ -106,6 +110,7 @@ Aerospace engineer and software developer with a passion in astronomy and space 
     <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook">
   </a>
 </div>
+
 
 
 
