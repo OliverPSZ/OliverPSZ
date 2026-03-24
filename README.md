@@ -1,7 +1,7 @@
 <h1 align="center">Hi! I'm Oliver Pineda Suárez 🛰️🔭</h1>
 
 <p align="center">
-  <img width="512" alt="image" src="https://github.com/user-attachments/assets/c25086d4-dac1-4783-b3e6-0ba1714733ba" />
+  <img src="https://raw.githubusercontent.com/OliverPSZ/OliverPSZ/main/banner.png" width="100%" />
 </p>
   
 ## 🚀 About me
@@ -14,7 +14,7 @@ Aerospace engineer and software developer with a passion in astronomy and space 
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OliverPSZ&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OliverPSZ&theme=transparent" />
 </div>
 
 ## 🛠 Skills
