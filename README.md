@@ -1,7 +1,7 @@
 <h1 align="center">Hi! I'm Oliver Pineda Suárez 🛰️🔭</h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/OliverPSZ/OliverPSZ/main/banner.png" width="100%" />
+  <img src="banner.png" alt="space banner" width="65%" />
 </p>
   
 ## 🚀 About me
