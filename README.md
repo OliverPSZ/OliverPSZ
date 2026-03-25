@@ -13,9 +13,9 @@ Aerospace engineer and software developer with a passion in astronomy and space 
   <img height="260" src="https://gh-stats-rosy-xi.vercel.app/api?username=OliverPSZ&show_icons=true&theme=holi&hide_border=true&include_all_commits=true&count_private=true" />
 </div>
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OliverPSZ&theme=transparent" />
-</div>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OliverPSZ&theme=transparent&v=1" />
+</p>
 
 ## 🛠 Skills
 
