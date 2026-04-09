@@ -57,6 +57,7 @@ Aerospace engineer and software developer with a passion in astronomy and space 
     <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
     <img src="https://img.shields.io/badge/Qiskit-6929c4?style=for-the-badge&logo=qiskit&logoColor=white" />
     <img src="https://img.shields.io/badge/F--Prime-0033A0?style=for-the-badge&logo=nasa&logoColor=white" />
+    <img src="https://img.shields.io/badge/Fast API-FF4B4B?style=for-the-badge&logo=fast-api&logoColor=white" />
   </div>
 
   <br>
