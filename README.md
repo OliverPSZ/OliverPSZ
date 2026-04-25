@@ -1,7 +1,7 @@
 <h1 align="center">Hi! I'm Oliver Pineda Suárez 🛰️🔭</h1>
 
 <p align="center">
-  <img src="banner.png" alt="space banner" width="65%" />
+  <img src="banner_space.png" alt="space banner" width="100%" />
 </p>
   
 ## 🚀 About me
